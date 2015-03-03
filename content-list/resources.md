@@ -5,3 +5,6 @@
 
 ### Tools
 - [ ] [Mug of Sublime Text (shortcuts)](http://katiek2.github.io/most/)
+
+### Design
+- [ ] http://principles.adactio.com/
