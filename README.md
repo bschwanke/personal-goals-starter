@@ -5,38 +5,47 @@ Personal goals made open source.
 
 Why? Spending the time to get shit done. I'm open sourcing these goals for accessibility across computers I use, transparency, accountability, and versioning.
 
-# Overarching Goals
-1. Contribute to Open Source
-2. Write more blog posts
-3. Use _______ more
-4. Get better at _______
-5. Learn about _______
-6. Be kind
+# Overarching Goals - just work / not home
+1. Finish Style Guide 
+2. A/B Testing on LP
+3. Give my services some love and attention
+4. Get better at build setups (npm, nvm, gulp, bower, browser sync, compass), javascript, API latency, flexbox, singularity.gs, SASS and Git
+5. Learn about: containers, urban code, various server systems (local, hybrid, on-prem), softlayer, net promoter score, etc. 
+6. Use emmet to move more quickly
+7. Plan service onboarding
+8. Read Lean UX
+9. Read Continuous Delivery
+10. Find time for community - whether it's online or in person
+11. Smile more! 
+12. Commit to one conference / training
 
-# November 00, 2014
+# March 3, 2015
 
-### This Week's Goal: Be Awesome.
+### This Week's Goal: Get Build Setup
 
 ## Things I'll Do This Week:
-- [x] Play with puppies
-- [ ] Watch 2 videos from my content list about ______
-- [ ] Write a blog post
-- [ ] Continue learning about narwhals
-- [ ] Create slides for my talk about music
-- [ ] Send Una a nice email (una.kravets@gmail.com)
-- [x] Read [this blog post](http://una.github.io/personal-goals-guide/)
+- [x] order LeanUX
+- [x] Sign up for Safari books online
+- [ ] Make outline of issues to still finish with style guide - needs design time and DO THE WORK.
+- [ ] Make a list of courses on code school that I need to take. 
+- [ ] Make a list of terms I need to research for work
+- [ ] Continue with component library research
+- [ ] Set up build and record process - get singularity to work or ditch it for flexbox again
+- [ ] Read this: http://markgoodyear.com/2014/01/getting-started-with-gulp/
+- [ ] Read this: https://www.coursera.org/course/designbiz
 
-### Things I'll Do This Month: November 2014
-- [ ] Read a book
-- [x] Create a website for my dog
-- [ ] Teach my dog how to fetch me beer
-- [ ] Build a castle out of cardboard
-- [ ] Submit a proposal for a thing
-- [ ] Come up with a new side project
+### Things I'll Do This Month: March 2014
+- [ ] Read LeanUX
+- [ ] Read SASS for Web Designers
+- [ ] Read Responsible Responsiveness
+- [ ] Take one code school course
+- [ ] Finish Style Guide
+- [ ] Get a handle on services in our catalog (and which ones I own)
 
 ### Backlog: Side Projects :)
-- [ ] Work on [my cool project I forgot about](http://google.com)
+- [ ] Work on my fitness / nutrition tracking site
 
 ### Backlog: Code Things I Want to Do/Play With
 1. Create yeoman generator
-2. Build a robot that takes over the world
+2. Do a simple API tutorial 
+3. Learn mixins/extends 
