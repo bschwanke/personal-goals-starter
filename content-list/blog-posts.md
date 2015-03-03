@@ -2,6 +2,7 @@
 
 ### Productivity
 - [ ] [Open Sourcing Your Personal Goals](http://una.github.io/personal-goals-guide/)
+- [ ] http://viget.com/flourish/five-easy-ways-to-be-a-better-web-professional
 
 ### Process / Strategy / Testing
 - [ ] http://apptimize.com/blog/2014/01/etsy-continuous-innovation-ab-testing/
