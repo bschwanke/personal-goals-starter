@@ -7,3 +7,4 @@
 ### Process / Strategy / Testing
 - [ ] http://apptimize.com/blog/2014/01/etsy-continuous-innovation-ab-testing/
 - [ ] https://codeascraft.com/2015/02/11/sahale-visualizing-cascading-workflows-at-etsy/
+- [ ] http://en.wikipedia.org/wiki/Net_Promoter
