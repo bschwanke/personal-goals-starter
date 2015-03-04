@@ -11,7 +11,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 3. Give my services some love and attention
 4. Get better at build setups (npm, nvm, gulp, bower, browser sync, compass), javascript, API latency, flexbox, singularity.gs, SASS and Git
 5. Learn about: containers, urban code, various server systems (local, hybrid, on-prem), softlayer, net promoter score, etc. 
-6. Use emmet to move more quickly
+6. Use emmet to move more quickly: https://css-tricks.com/sublime-text-front-end-developers/
 7. Plan service onboarding
 8. Read Lean UX
 9. Read Continuous Delivery
