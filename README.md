@@ -27,12 +27,13 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [x] order LeanUX
 - [x] Sign up for Safari books online
 - [ ] Make outline of issues to still finish with style guide - needs design time and DO THE WORK.
-- [ ] Make a list of courses on code school that I need to take. 
+- [x] Make a list of courses on code school that I need to take. 
 - [ ] Make a list of terms I need to research for work
 - [ ] Continue with component library research
 - [ ] Set up build and record process - get singularity to work or ditch it for flexbox again
 - [ ] Read this: http://markgoodyear.com/2014/01/getting-started-with-gulp/
 - [ ] Read this: https://www.coursera.org/course/designbiz
+- [ ] Research https://developer.ibm.com/urbancode/products/urbancode-deploy/
 
 ### Things I'll Do This Month: March 2014
 - [ ] Read LeanUX
